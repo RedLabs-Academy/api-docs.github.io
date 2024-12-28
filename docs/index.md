@@ -1,10 +1,10 @@
 ---
 layout: page
-title: API Documentation
+title: Official Documentation
 ---
 
 <style>
-    .image-container{
+    .image-container {
         display: flex;
         align-items: center;
         justify-content: center;
@@ -13,54 +13,34 @@ title: API Documentation
         width: 20%;
         background: none;
     }
-
 </style>
 
 <div class="image-container">
     <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
 </div>
 
-## Official API Documentation
+## Official Documentation
 
-Welcome to the official documentation page for the APIs of **RedLabs Academy**. This page is maintained and contributed to by the team at RedLabs Academy and its dedicated collaborators.
+Welcome to the official documentation page for **RedLabs Academy**. This page serves as an overview and guide for navigating the resources and documentation provided by RedLabs Academy.
 
 ### About RedLabs Academy
 
-RedLabs Academy is a premier institution specializing in **cybersecurity education**. Our mission is to empower individuals and institutions with the knowledge and tools needed to thrive in the modern digital landscape. We seamlessly integrate advanced **educational resources and hands-on labs** into educational institutes, ensuring a practical and comprehensive learning experience.
+RedLabs Academy is a premier institution specializing in **cybersecurity education**. Our mission is to empower individuals and educational institutions with the knowledge and tools required to succeed in the modern digital landscape. We integrate advanced **educational resources and hands-on labs** into educational institutes, ensuring a practical and comprehensive learning experience.
 
-### Purpose of This Documentation
+### API Documentation
 
-This documentation serves as a detailed guide for using and integrating the APIs developed by RedLabs Academy. It includes:
+To access the API documentation for various RedLabs Academy APIs, please visit the [API Documentation](/api). There, you will find detailed guides, request and response formats, authentication details, and integration examples for all the available APIs.
 
-- Comprehensive API descriptions.
-- Request and response formats.
-- Authentication details (if required).
-- Error codes and troubleshooting steps.
+### Security Testing
 
-### Contributions
+Please note that the APIs provided by **RedLabs Academy** may be subject to security testing as part of RedLabs' cybersecurity education initiatives. Authorized users and partner institutions should adhere to best practices for security testing and integration when using the APIs.
 
-The APIs and their documentation are a collective effort by:
+For detailed information on the scope of security testing, testing regulations, and prohibited testing methodologies, please refer to our dedicated security testing documentation at the following endpoint:
 
-- RedLabs Academy's expert team.
-- Industry professionals.
-- Community contributors.
+[Security Testing Guidelines](/security)
 
-We welcome feedback and contributions to continually improve and enhance this documentation.
+### Support
 
-### Important Notices
+For any issues or inquiries, please reach out to the official support channels.
 
-- **Confidential Usage**: The APIs described here are intended for authorized use only, such as for integration with RedLabs Academy's partner institutions.
-- **Updates**: This documentation is actively maintained. Please ensure you are using the latest version.
-- **Support**: For any queries or assistance, reach out to the official support channels.
-
-### Getting Started
-
-To begin using the APIs:
-
-1. Review the authentication and setup guides.
-2. Explore individual API endpoints listed in this documentation.
-3. Follow the provided examples for seamless integration.
-
-For more details, navigate through the sections provided.
-
-[API](/api)
+Thank you for using **RedLabs Academy** documentation. We look forward to your feedback and contributions!
