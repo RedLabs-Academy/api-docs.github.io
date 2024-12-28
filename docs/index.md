@@ -54,7 +54,7 @@ The request body must be a JSON object with the following fields:
 ```json
 {
   "status": "success",
-  "key": `authenctication token`,
+  "key": "{authentication token}",
   "data": {
     "user": {
       "firstName": "firstName",
