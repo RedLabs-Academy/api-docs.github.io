@@ -6,7 +6,7 @@
 
 </style>
 
-<img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
+<img src="/docs/img/Logo.svg" alt="RedLabs Logo" class="transparent-image" />
 
 ## Official API Documentation
 
