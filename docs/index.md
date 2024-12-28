@@ -1,4 +1,4 @@
-![RedLabs Logo](/docs/img/Logo.svg)
+![RedLabs Logo](/img/Logo.svg)
 
 ## Official API Documentation
 
