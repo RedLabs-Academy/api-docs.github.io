@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SIGNUP | API Documentation
+title: Authentication | API Documentation
 ---
 
 <style>
@@ -19,11 +19,18 @@ title: SIGNUP | API Documentation
     <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
 </div>
 
+## Authentication API
+
+This documentation outlines the APIs related to **user authentication**, specifically for **signing up** and **logging in** to the platform.
+
+<br />
+<br />
+
 ## SIGNUP API
 
 ### **Endpoint**
 
-`URL/auth/signup`
+`/auth/signup`
 
 ### **Method**
 
