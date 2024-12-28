@@ -45,29 +45,14 @@ Welcome to the API Documentation of **RedLabs Academy**. This document serves as
 - **Description**: This section contains APIs for managing users, user roles, and permissions within the RedLabs Academy platform.
 - **Navigate to**: [User Management API Docs](./user-management.md)
 
-#### 5. **Reporting API**
-
-- **Description**: This section includes APIs that deal with reporting, generating activity logs, and retrieving reports from the system.
-- **Navigate to**: [Reporting API Docs](./reporting.md)
-
-#### 6. **Feedback and Analytics API**
-
-- **Description**: The Feedback and Analytics API provides access to user feedback, learning analytics, and performance data.
-- **Navigate to**: [Feedback and Analytics API Docs](./feedback-analytics.md)
-
----
-
 ### How to Use the API Documentation
 
 - **Explore Each Section**: Click on the links above to explore the detailed API documentation for each category.
 - **Authentication**: Ensure you have the proper authentication tokens before using any of the APIs, especially those that require user roles or permissions.
 - **Integration Examples**: Each API section provides examples for integration to help you get started with our APIs.
 
----
-
 ### Important Notices
 
-- **Confidential Usage**: These APIs are intended for authorized users only. Please ensure you have the appropriate credentials and permissions before accessing the API endpoints.
-- **Support**: If you encounter any issues or have questions regarding the API, please reach out to the official support team.
+- **Support**: If you encounter any issues, have questions, or found any critical security issues regarding the API, please reach out to the [Official Support](https://redlabs-academy.github.io/#support).
 
 Thank you for using **RedLabs Academy** APIs. We look forward to your contributions and feedback!
