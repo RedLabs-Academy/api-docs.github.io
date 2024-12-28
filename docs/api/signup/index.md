@@ -1,9 +1,7 @@
 ---
 layout: page
-title: API Documentation
+title: SIGNUP | API Documentation
 ---
-
-![RedLabs Logo](../img/Logo.svg)
 
 ## SIGNUP API
 

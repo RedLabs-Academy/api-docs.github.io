@@ -1,12 +1,18 @@
+---
+layout: page
+title: SIGNUP | API Documentation
+---
+
 <style>
     .transparent-image {
+        text-align: center;
         width: 50%;
         background: none;
     }
 
 </style>
 
-<img src="/img/Logo.svg" alt="RedLabs Logo" class="transparent-image" />
+<img src="/img/Logo.svg" alt="RedLabs Logo" class="transparent-image"/>
 
 ## Official API Documentation
 
