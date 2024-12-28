@@ -23,7 +23,7 @@ title: SIGNUP | API Documentation
 
 ### **Endpoint**
 
-`{{URL}}/auth/signup`
+`URL/auth/signup`
 
 ### **Method**
 
