@@ -23,8 +23,6 @@ title: Official Documentation
 
 Welcome to the API Documentation of **RedLabs Academy**. This document serves as a guide for navigating through the different API sections available for integration and use. The APIs provided by RedLabs Academy enable seamless interactions with our platform, designed to support various educational and cybersecurity purposes.
 
----
-
 ### Available API Sections
 
 #### 1. **Authentication API**
