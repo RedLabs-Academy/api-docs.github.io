@@ -63,4 +63,4 @@ To begin using the APIs:
 
 For more details, navigate through the sections provided.
 
-[API]('/api')
+[API](/api)
