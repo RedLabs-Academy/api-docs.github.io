@@ -1,4 +1,11 @@
-# Signup API
+---
+layout: default
+title: API Documentation
+---
+
+![RedLabs Logo](../img/RedLabs%20Logo.svg)
+
+## SIGNUP API Dcoumentation
 
 ### **Endpoint**
 
