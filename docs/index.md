@@ -4,17 +4,21 @@ title: API Documentation
 ---
 
 <style>
-    .transparent-image {
+    .image-container{
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 50%;
+    }
+    .transparent-image {
+        width: 20%;
         background: none;
     }
 
 </style>
 
-<img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
+<div class="image-container">
+    <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
+</div>
 
 ## Official API Documentation
 
