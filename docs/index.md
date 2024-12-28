@@ -62,3 +62,5 @@ To begin using the APIs:
 3. Follow the provided examples for seamless integration.
 
 For more details, navigate through the sections provided.
+
+[API]('/api')
