@@ -1,3 +1,24 @@
+---
+layout: page
+title: Official Documentation
+---
+
+<style>
+    .image-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .transparent-image {
+        width: 20%;
+        background: none;
+    }
+</style>
+
+<div class="image-container">
+    <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
+</div>
+
 ## API Documentation Overview
 
 Welcome to the API Documentation of **RedLabs Academy**. This document serves as a guide for navigating through the different API sections available for integration and use. The APIs provided by RedLabs Academy enable seamless interactions with our platform, designed to support various educational and cybersecurity purposes.
