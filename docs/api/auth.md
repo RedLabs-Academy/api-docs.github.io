@@ -19,11 +19,10 @@ title: Authentication | API Documentation
     <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
 </div>
 
-## Authentication API
+## Authentication APIs
 
 This documentation outlines the APIs related to **user authentication**, specifically for **signing up** and **logging in** to the platform.
 
-<br />
 <br />
 
 ## SIGNUP API
