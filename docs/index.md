@@ -3,9 +3,9 @@ layout: page
 title: API Documentation
 ---
 
-![RedLabs Logo](../img/RedLabs%20Logo.svg)
+![RedLabs Logo](../img/Logo.svg)
 
-## SIGNUP API Dcoumentation
+## SIGNUP API
 
 ### **Endpoint**
 
