@@ -1,4 +1,12 @@
-![RedLabs Logo](/img/Logo.svg)
+<style>
+    .transparent-image {
+        width: 50%;
+        background: none;
+    }
+
+</style>
+
+<img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
 
 ## Official API Documentation
 
