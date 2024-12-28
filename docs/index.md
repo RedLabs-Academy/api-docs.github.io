@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SIGNUP | API Documentation
+title: API Documentation
 ---
 
 <style>
