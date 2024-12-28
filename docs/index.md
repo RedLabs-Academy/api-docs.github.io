@@ -15,7 +15,7 @@ title: Official Documentation
     }
 </style>
 
-<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
 
 <div class="image-container">
     <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />

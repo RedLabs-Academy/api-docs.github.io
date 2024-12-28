@@ -1,10 +1,23 @@
 ---
 layout: page
 title: Security Testing Guidelines
-date: 2024-12-28
-author: "Security Team at RedLabs Academy"
-categories: [security]
 ---
+
+<style>
+    .image-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .transparent-image {
+        width: 20%;
+        background: none;
+    }
+</style>
+
+<div class="image-container">
+    <img src="/img/Logo.png" alt="RedLabs Logo" class="transparent-image" />
+</div>
 
 ## Introduction
 
