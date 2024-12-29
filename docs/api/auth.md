@@ -135,3 +135,107 @@ The request body must be a JSON object with the following fields:
 ## **Notes**
 
 - Ensure `password` and `confirmPassword` match to avoid validation errors.
+
+<br />
+<br />
+
+## **Login API**
+
+### **Endpoint**
+
+`/auth/login`
+
+### **Method**
+
+`POST`
+
+### **Description**
+
+The login API allows users to authenticate with their credentials (email and password) and obtain a JWT token. This token is used to authenticate further API requests that require authorization.
+
+<br />
+
+### **Request**
+
+#### **Headers**
+
+No authentication is required for this endpoint.
+
+#### **Body Parameters**
+
+The request body must be a JSON object with the following fields:
+
+| Parameter  | Type     | Required | Description               |
+| ---------- | -------- | -------- | ------------------------- |
+| `email`    | `string` | Yes      | The user's email address. |
+| `password` | `string` | Yes      | The user's password.      |
+
+<br />
+
+### **Response**
+
+#### **Success Response**
+
+**Status Code:** `200 OK`  
+**Format:** `application/json`
+
+**Example:**
+
+```json
+{
+  "status": "success",
+  "key": "{authentication token}",
+  "data": {
+    "user": {
+      "firstName": "firstName",
+      "lastName": "LastName",
+      "email": "email"
+    }
+  }
+}
+```
+
+| **Status Code**             | **Description**                           |
+| --------------------------- | ----------------------------------------- |
+| `400 Bad Request`           | Missing `email` or `password` parameters. |
+| `401 Unauthorized`          | Invalid email or password.                |
+| `500 Internal Server Error` | A server error occurred.                  |
+
+**Examples:**
+
+- **400 Bad Request** (Missing parameters):
+
+```json
+{
+  "status": "fail",
+  "message": "Missing email or password."
+}
+```
+
+- **401 Unauthorized** (Incorrect email or password):
+
+```json
+{
+  "status": "fail",
+  "message": "Incorrect email or password."
+}
+```
+
+<br />
+
+## **Use Cases**
+
+1. **Successful Login**:  
+   When a user provides a valid email and password, a JWT token is returned in the response.
+
+2. **Invalid Credentials**:  
+   If the email or password is incorrect, a `401 Unauthorized` error is returned.
+
+3. **Missing Parameters**:  
+   If any required parameter (email or password) is missing, a `400 Bad Request` error is returned.
+
+<br />
+
+## **Notes**
+
+- Ensure that the provided `email` and `password` are correct to receive a valid JWT token.
